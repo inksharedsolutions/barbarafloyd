@@ -9,7 +9,7 @@ const Contact = () =>{
 
 	const bannerText = (
 		<>
-			<span className="banr-tagline-fx">Jonny Burgess</span>
+			<span className="banr-tagline-fx">Barbara Floyd</span>
 			<h1 className="banr-header-fx">
 				<span className="banr-spn-highlight" id="span-non-front">Contact</span>
 			</h1>
